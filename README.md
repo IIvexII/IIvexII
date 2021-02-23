@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Make as apps as I can and contribute to open source projects.
 ## Contacts:
 [<img align="left" alt="Terry | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="Terry | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Terry | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 
@@ -23,3 +23,4 @@
 
 [youtube]: https://www.youtube.com/channel/UCrGoIfMI_bT2FlKtbMf5inw
 [instagram]: https://www.instagram.com/zafeerhafeez/
+[twitter]: https://twitter.com/Zafeer_Hafeez
