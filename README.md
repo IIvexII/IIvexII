@@ -1,9 +1,9 @@
-### Hi There, I am Zafeer 👋
-## I'm a programmer 👨🏽‍💻 , gamer 🎮 , Rapper 🤘🏽, Cyber Security Researcher 🔬 and a Geeeeeeeek!
-
 <div align="center">
 <img src="https://octodex.github.com/images/gobbleotron.gif" width="300"><br>
 </div>
+
+## Hi There, I am Zafeer 👋
+### I'm a programmer 👨🏽‍💻 , gamer 🎮 , Rapper 🤘🏽, Cyber Security Researcher 🔬 and a Geeeeeeeek!
 
 - 📱  I'm currently working on **flutter**.
 - 🌱 I'm trying to learn as much as I can. 
