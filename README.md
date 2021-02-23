@@ -18,8 +18,8 @@
 <br />
 <br />
 
-![Zafeer Hafeez's github stats](https://github-readme-stats.vercel.app/api?username=IIvexII&count_private=true&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IIvexII)
+![Zafeer Hafeez's github stats](https://github-readme-stats.vercel.app/api?username=IIvexII&count_private=true&show_icons=true&theme=buefy)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IIvexII&layout=compact)
 
 [youtube]: https://www.youtube.com/channel/UCrGoIfMI_bT2FlKtbMf5inw
 [instagram]: https://www.instagram.com/zafeerhafeez/
