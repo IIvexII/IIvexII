@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://octodex.github.com/images/gobbleotron.gif" width="200"><br>
+<img src="https://octodex.github.com/images/gobbleotron.gif" width="500"><br>
 </div>
+
 ### Hi There, I am Zafeer 👋
 ## I'm a programmer 👨🏽‍💻 , gamer 🎮 , Rapper 🤘🏽, Cyber Security Researcher 🔬 and a Geeeeeeeek!
 
