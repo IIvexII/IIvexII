@@ -1,3 +1,4 @@
+![Banner](https://octodex.github.com/images/gobbleotron.gif)
 ### Hi There, I am Zafeer 👋
 ## I'm a programmer 👨🏽‍💻 , gamer 🎮 , Rapper 🤘🏽, Cyber Security Researcher 🔬 and a Geeeeeeeek!
 
