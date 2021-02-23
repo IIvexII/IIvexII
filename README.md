@@ -2,8 +2,6 @@
 <img src="https://octodex.github.com/images/gobbleotron.gif" width="300"><br>
 </div>
 
-<sctipt>alert("Testing");</script>
-
 ## Hi There, I am Zafeer 👋
 ### I'm a programmer 👨🏽‍💻 , gamer 🎮 , Rapper 🤘🏽, Cyber Security Researcher 🔬 and a Geeeeeeeek!
 
