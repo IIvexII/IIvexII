@@ -19,11 +19,11 @@
 
 <br />
 <br />
-<a align="center" href="https://github.com/IIvexII">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IIvexII&count_private=true&show_icons=true&theme=buefy" />
-</a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=IIvexII&count_private=true&show_icons=true&theme=buefy" />
+
 <br />
-<a align="center" href="https://github.com/IIvexII">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIvexII&layout=compact">
-</a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIvexII&layout=compact">
+
 
