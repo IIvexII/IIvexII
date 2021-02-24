@@ -24,6 +24,6 @@
 
 <br />
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IIvexII&layout=compact&theme=buefy">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IIvexII&layout=compact">
 
 
