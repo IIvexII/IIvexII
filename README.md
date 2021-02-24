@@ -13,6 +13,10 @@
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
+[youtube]: https://www.youtube.com/channel/UCrGoIfMI_bT2FlKtbMf5inw
+[instagram]: https://www.instagram.com/zafeerhafeez/
+[twitter]: https://twitter.com/Zafeer_Hafeez
+
 <br />
 <br />
 <a href="https://github.com/IIvexII">
@@ -21,6 +25,4 @@
 <a href="https://github.com/IIvexII">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIvexII&layout=compact">
 </a>
-[youtube]: https://www.youtube.com/channel/UCrGoIfMI_bT2FlKtbMf5inw
-[instagram]: https://www.instagram.com/zafeerhafeez/
-[twitter]: https://twitter.com/Zafeer_Hafeez
+
