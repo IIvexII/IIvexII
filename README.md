@@ -20,7 +20,7 @@
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=IIvexII&count_private=true&show_icons=true&theme=buefy" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=IIvexII&count_private=true&show_icons=true&include_all_commits=true&theme=buefy" />
 
 <br />
 
