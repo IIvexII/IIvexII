@@ -5,9 +5,9 @@
 ## Hi There, I am Zafeer 👋
 ### I'm a programmer 👨🏽‍💻 , gamer 🎮 , Rapper 🤘🏽, Cyber Security Researcher 🔬 and a Geeeeeeeek!
 
-- 📱  I'm currently working on **flutter**.
+- 📱  currently working on **Projects**.
 - 🌱 I'm trying to learn as much as I can. 
-- 🥅 2021 Goals: Make as many apps as I can and contribute to open source projects.
+- 🥅 2021 Goals: Make as many applications as I can and contribute to open source projects.
 ## Contacts:
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
