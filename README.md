@@ -2,7 +2,7 @@
 <img src="https://octodex.github.com/images/gobbleotron.gif" width="300"><br>
 </div>
 
-## Hi There, I am Zafeer 👋
+## السلام عليكم, I am Zafeer 👋
 
 - 🌱 I'm trying to learn as much as I can.
 - 🥅 2021 Goals: Make as many applications as I can and contribute to open source projects.
@@ -23,5 +23,3 @@
 <br />
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IIvexII&layout=compact">
-
-
