@@ -5,7 +5,6 @@
 ## السلام عليكم, I am Zafeer 👋
 
 - 🌱 I'm trying to learn as much as I can.
-- 🥅 2021 Goals: Make as many applications as I can and contribute to open source projects.
 ## Contacts:
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
