@@ -8,9 +8,7 @@
 
 <h2 align="left">Hi 👋! My name is Zafeer</h2>
 
-###
-
-<h2 align="left">I'm a passionate learner and a Data Science Enthusiast, from Pakistan</h2>
+<h3 align="left">I'm a passionate learner and a Data Science Enthusiast, from Pakistan</h3>
 
 ###
 
@@ -41,7 +39,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media2.giphy.com/media/bSUSLF2UgeBh6Q1VFe/giphy.gif?cid=ecf05e47aobuk2vrl5jyn7a1ezvfle6bttk9tbn5zxpcd0uv&rid=giphy.gif&ct=g"  />
+<img align="right" height="200" src="https://media2.giphy.com/media/bSUSLF2UgeBh6Q1VFe/giphy.gif?cid=ecf05e47aobuk2vrl5jyn7a1ezvfle6bttk9tbn5zxpcd0uv&rid=giphy.gif&ct=g"  />
 
 ###
 
