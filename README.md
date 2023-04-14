@@ -1,6 +1,13 @@
 <br clear="both">
 
 <div align="center">
+  <img src="https://badge.stateful.com/IIvexII/status.svg"  />
+  <img src="https://badge.stateful.com/IIvexII/dnd.svg"  />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://profile-counter.glitch.me/IIvexII/count.svg?"  />
 </div>
 
