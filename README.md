@@ -15,7 +15,7 @@
 
 <h2 align="left">Hi 👋! My name is Zafeer</h2>
 
-<h3 align="left">I'm a passionate learner and a Data Science Enthusiast, from Pakistan</h3>
+<h3 align="left">Aspiring explorer of diverse fields. Constantly seeking new challenges and experiences. Passionate about expanding knowledge and skills.</h3>
 
 ###
 
