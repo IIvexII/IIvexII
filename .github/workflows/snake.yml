@@ -15,12 +15,12 @@ jobs:
 
     steps:
       - name: Use Node.js 16
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: '16'
 
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk/svg-only@v2 # check if there's a newer version
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
