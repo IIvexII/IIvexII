@@ -56,6 +56,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/IIvexII/IIvexII/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/IIvexII/IIvexII/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
