@@ -20,7 +20,7 @@ jobs:
           node-version: '16'
 
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@v2 # check if there's a newer version
+        uses: Platane/snk@v3 # check if there's a newer version
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
