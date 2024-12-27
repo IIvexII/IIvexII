@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/IIvexII/count.svg?" alt="Profile Views Counter"/>
-</div>
-
----
-
-<h1 align="center">Muhammad Zafeer</h1>
+<h1 align="center">Zafeer Hafeez</h1>
 
 <p align="center">
   <em>Full-Stack Developer | React Native App Developer</em>
