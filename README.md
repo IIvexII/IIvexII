@@ -57,15 +57,6 @@
 
 ---
 
-<h2 align="left">Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IIvexII&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IIvexII&theme=radical" alt="GitHub Streak Stats" />
-</div>
-
----
-
 <h2 align="left">Contact Me</h2>
 
 - Leave a message at contact@zafeer.pk, so that you can have upto 10% chances of getting a reply.
