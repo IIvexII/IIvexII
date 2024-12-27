@@ -1,9 +1,3 @@
-<h1 align="center">Zafeer Hafeez</h1>
-
-<p align="center">
-  <em>Full-Stack Developer | React Native App Developer</em>
-</p>
-
 <h2 align="left">About Me</h2>
 
 <div align="center">
