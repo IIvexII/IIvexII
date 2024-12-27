@@ -1,62 +1,86 @@
-<br clear="both">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/IIvexII/count.svg?" alt="Profile Views Counter"/>
+</div>
+
+---
+
+<h1 align="center">Muhammad Zafeer</h1>
+
+<p align="center">
+  <em>Full-Stack Developer | React Native App Developer</em>
+</p>
+
+<h2 align="left">About Me</h2>
 
 <div align="center">
-  <img src="https://badge.stateful.com/IIvexII/status.svg"  />
-  <img src="https://badge.stateful.com/IIvexII/dnd.svg"  />
+  <img align="right" height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJ6YjkyOWdueG1scTczYzJ6cXMzMjBxMXVueTZ3cHY1YXU1aWhzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPJUHDABth0aC84zm/giphy-downsized-large.gif" alt="Coding Animation"/>
 </div>
 
-<br>
+- Working on mobile app development using React Native.
+- I still help businesses with web solutions, but I’m not keeping up with the latest trends.
+- Reading books alot and slowly becoming the most boring person in the room (on purpose).
+- I am more into the philosophy of Nietzsche, Socrates, and Plato.
+  
+<h2 align="left">Technologies & Tools</h2>
+
+<div align="left">
+  <!-- Programming Languages -->
+  <h4>Programming Languages:</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python logo" />
+
+  <!-- App Development -->
+  <h4>App Development:</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React Native logo" />
+  <img src="https://github.com/user-attachments/assets/bad18f99-edd2-4ddf-b9c2-53b2d38bfdce" width="110" alt="Expo logo" />
+  
+  <!-- Frontend -->
+  <h4>Frontend Development:</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="Tailwind CSS logo" />
+  
+  <!-- Backend -->
+  <h4>Backend Development:</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="Express.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="Django logo" />
+
+  <!-- Databases -->
+  <h4>Databases & ORMs:</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="SQLite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL logo" />
+  
+  <!-- Tools & Platforms -->
+  <h4>Tools & Platforms:</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VSCode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker logo" />
+</div>
+
+---
+
+<h2 align="left">Stats</h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/IIvexII/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IIvexII&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IIvexII&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
-###
+---
 
-<h2 align="left">Hi 👋! My name is Zafeer</h2>
+<h2 align="left">Contact Me</h2>
 
-###
+- Leave a message at contact@zafeer.pk, so that you can have upto 10% chances of getting a reply.
+- There are only 3 people in the world that can contact me anytime, and you are not one of them.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="47" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" width="47" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" width="47" alt="pandas logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" width="47" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" width="47" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="47" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" width="47" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="47" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" width="47" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="47" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" width="47" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" width="47" alt="c logo"  />
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/IIvexII/IIvexII/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://media2.giphy.com/media/bSUSLF2UgeBh6Q1VFe/giphy.gif?cid=ecf05e47aobuk2vrl5jyn7a1ezvfle6bttk9tbn5zxpcd0uv&rid=giphy.gif&ct=g"  />
-
-###
- 
-<div align="left">
-  <a href="https://www.linkedin.com/in/zafeer-hafeez/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-    <a href="https://www.kaggle.com/muhammadzafeer" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=000000&labelColor=000000&style=for-the-badge" height="35" alt="kaggle logo"  />
-    </a>
-  <a href="https://www.instagram.com/zafeerhafeez/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-
-<img src="https://raw.githubusercontent.com/IIvexII/IIvexII/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
