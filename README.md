@@ -47,6 +47,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="SQLite logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL logo" />
+  <img src="https://github.com/user-attachments/assets/abc9cf3e-df74-492d-8b4e-93d29b64b053" height="35" alt="Prisma logo" />
+  <img src="https://github.com/user-attachments/assets/032f5ec1-bcf9-41b6-b879-631b7ec73e65" height="35" alt="Drizzle logo" />
+
+
   
   <!-- Tools & Platforms -->
   <h4>Tools & Platforms:</h4>
