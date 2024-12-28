@@ -6,7 +6,7 @@
 
 - Working on mobile app development using React Native.
 - I still help businesses with web solutions, but I’m not keeping up with the latest trends.
-- Reading books alot and slowly becoming the most boring person in the room (on purpose).
+- Slowly becoming the most boring person in the room (on purpose).
 - I am more into the philosophy of Nietzsche, Socrates, and Plato.
   
 <h2 align="left">Technologies & Tools</h2>
@@ -34,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="Express.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="Django logo" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js logo" />
 
   <!-- Databases -->
   <h4>Databases & ORMs:</h4>
@@ -59,8 +60,7 @@
 
 <h2 align="left">Contact Me</h2>
 
-- Leave a message at contact@zafeer.pk, so that you can have upto 10% chances of getting a reply.
-- There are only 3 people in the world that can contact me anytime, and you are not one of them.
+- Leave a message at contact@zafeer.pk
 
 ---
 
