@@ -58,12 +58,6 @@
 
 ---
 
-<h2 align="left">Contact Me</h2>
-
-- Leave a message at contact@zafeer.pk
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/IIvexII/IIvexII/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
